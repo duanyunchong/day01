@@ -20,6 +20,6 @@ public class HelloWorld extends JFrame {
         mv.setSize(400, 400);
         mv.setVisible(true);
         mv.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        System.out.println("1111");
+        System.out.println("222");
     }
 }
